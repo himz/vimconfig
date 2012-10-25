@@ -15,7 +15,7 @@
 	url = git://github.com/scrooloose/nerdcommenter.git
 [submodule "bundle/supertab"]
 	path = bundle/supertab
-	url = git://github.com/ervandew/supertab.git
+	url = git://github.com/tsaleh/vim-supertab.git
 [submodule "bundle/tagbar"]
 	path = bundle/tagbar
 	url = git://github.com/majutsushi/tagbar.git
