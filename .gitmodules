@@ -22,3 +22,6 @@
 [submodule "bundle/solarized"]
 	path = bundle/solarized
 	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule "bundle/supertab1"]
+	path = bundle/supertab1
+	url = git://github.com/tsaleh/vim-supertab.git
